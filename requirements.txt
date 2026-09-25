@@ -1,0 +1,6 @@
+Flask>=3.0,<4
+transformers>=4.44,<5
+torch>=2.2
+sentencepiece>=0.2
+safetensors>=0.4
+gunicorn>=22.0
